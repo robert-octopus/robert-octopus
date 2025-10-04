@@ -24,8 +24,8 @@ Plume is a purpose-built Layer-1 blockchain focused on Real-World Asset Finance 
 [Enjoyoors](https://app.enjoyoors.xyz/monad/join/12WfUnjcUn)
 
 ## Soneium
-Soneium is Sony’s Ethereum Layer-2 blockchain, built with the Optimism OP Stack. It aims to bridge Web2 and Web3 by offering fast, low-cost transactions for apps in gaming, entertainment, and beyond.
+[Soneium](https://portal.soneium.org/en/profile/) is Sony’s Ethereum Layer-2 blockchain, built with the Optimism OP Stack. It aims to bridge Web2 and Web3 by offering fast, low-cost transactions for apps in gaming, entertainment, and beyond.
 
-Season 2 is still running. It ends 
+Season 2 is still running.
 
-[LootCoin](https://lootcoin.tech?ref=0x07447d3D933a7a71377aC74730fD6D297a57c68f)
+[LootCoin](https://lootcoin.tech?ref=0x07447d3D933a7a71377aC74730fD6D297a57c68f). LootCoin is a
