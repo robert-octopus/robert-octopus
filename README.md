@@ -1,16 +1,15 @@
-## Hi there 👋
+# Crypto links for testnets, exchanges & more! 🚀✨ Join the journey!
 
-<!--
-**robert-octopus/robert-octopus** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[Twitter/X](https://x.com/Robert_D_crypto)
 
-Here are some ideas to get you started:
+## RWA
+[Plume Portal - S2](https://portal.plume.org/?referrer=AmberOptimisticSuit185)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Testnets
+[Incentiv Portal](https://testnet.incentiv.io/login?refCode=tgMWkj1b6EDF7r9APoPALZ)
+[Pharos](https://testnet.pharosnetwork.xyz/experience?inviteCode=qJ7zBkyvxxPWz2Ba)
+[T-Rex](https://s.trex.xyz/lln1ND). Invite Code is : TDOAO72W
+[Nexus](https://quest.nexus.xyz/loyalty?referral_code=YP1ZXO0C)
+
+### Related to Monad
+[Curvance](https://app.curvance.com/bytes?tab=referral&code=cPcu0PsHg)
